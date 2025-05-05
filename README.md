@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, lea
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemanthMarisetti0&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-HemanthMarisetti0&layout=compact&theme=github_dark)](https://github.com/HemanthMarisetti0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthMarisetti0&layout=compact&theme=github_dark)](https://github.com/HemanthMarisetti0)
 
 ---
 
