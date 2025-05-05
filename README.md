@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, lea
 
 
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HemanthMarisetti0)
 
 ## 🛠️ Tech Stack
 
