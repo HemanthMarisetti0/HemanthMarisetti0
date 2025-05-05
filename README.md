@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, lea
 
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HemanthMarisetti0)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HemanthMarisetti0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
