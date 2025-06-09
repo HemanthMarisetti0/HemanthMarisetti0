@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, lea
 ![trophy](https://github-profile-trophy.vercel.app/?username=HemanthMarisetti0&theme=onedark)
 
 ## 🚀 About Me
-
+- 💼 Currently working as a Software Development Engineer at Atelia Softwares
 - 👩🏻‍🎓 Studied BTECH in ECE at Sasi Institute of Engineering & Technology, Tadepaliigudem
 - 📫 How to reach me: **[hemanthmarisetti555@gmail.com]**
 
